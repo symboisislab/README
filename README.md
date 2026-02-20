@@ -1,4 +1,4 @@
-# \#\#\# Hi there, I'm Dennis 👋
+# Hi there, I'm Dennis 👋
 
 **Founder of Symbiosis Lab | PhD Candidate in Tech Management | AI Architecture Researcher**
 
