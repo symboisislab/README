@@ -36,7 +36,7 @@ Welcome to the codebase of Co-evolution. 這裡不只是代碼庫，而是人類
 ### ⚡ Connect with My Ecosystem
 
   * **AINCA Official:** [AINCA 官方網站](https://www.ainca.co/) - 獲取最新的研究日誌與白皮書。
-  * **Satoyama Agrinnova:**[里山農創 官方網站](https:www.satoyamaagrinnova.com) - 地方創生與在地永續品牌故事。
+  * **Satoyama Agrinnova:**[里山農創 官方網站](https://www.satoyamaagrinnova.com) - 地方創生與在地永續品牌故事。
   * **YouTube:** [Symbiosis Lab 共生實驗室](https://www.youtube.com/@SymbiosisLab) - 智識道場，分享關於第一性原理、元思考與 PSS 實戰。
   * **Discord:** [Join our Community](https://discord.gg/6BDmZ2YxZH) - 架構師的集散地，進行 PSS 部署支援與深度交流。
   * **Eco-Applications:** 里山好物 (ESG 電商), 買蝦咪系統 (Line OA SaaS).
